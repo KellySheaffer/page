@@ -3,7 +3,7 @@ title: Kelly Sheaffer
 description: Graduate Program Coordinator at Villanova University. 
 url: 'https://github.com/velthuis/uno-timeline-villanova/raw/main/_data/CV.pdf' # this is the link behind the CV button
 /baseurl: '' # leave empty unless you use a domain name other than GitHub
-profilepic: 'Kelly Photo.jpg'
+profilepic: 'images/Kelly Photo.jpg'
 bkimage: '/images/beech.jpg' # Licensed from https://www.flickr.com/people/vudigitallibrary/
 google_analytics: G-XXXXXXXXXX # requires a free account 
 font_awesome: 'XXXXXXXXXX.js' # set up a free account at fontawesome.com to get your kit ID
